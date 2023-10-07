@@ -1,9 +1,9 @@
 ## 心有猛虎，细嗅蔷薇
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azbGithub)](https://github.com/azbGithub/github-readme-stats)
 <h1 align="center">Hi 👋, I'm jakeAi</h1>
-<h3 align="center">An undergraduate student from Wuhan University majoring in computer science and technology. I,m new to programming and is continuing to learn.</h3>
+<h3 align="center">An undergraduate student from Wuhan University majoring in computer science and technology. I'm new to programming and continuing to learn.</h3>
 
-- 🔭 I’m currently working on **study hard in WHU**
+- 🔭 I’m currently **study hard in WHU**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
