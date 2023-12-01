@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=azbGithub&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)</h4>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azbGithub&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm jakeAi</h1>
 <h3 align="center">An undergraduate student from Wuhan University majoring in computer science and technology. I'm new to programming and continuing to learn.</h3>
 
