@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azbGithub)](https://github.com/azbGithub/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongboai&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm jakeAi</h1>
 <h3 align="center">An undergraduate student from Wuhan University majoring in computer science and technology. I'm new to programming and continuing to learn.</h3>
 
