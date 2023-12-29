@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently **study hard in WHU**
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning ...
 
 - 📫 How to reach me **azbazb022@outlook.com**
 
 - ⚡ Fun fact **I am always happy and enthusiastic about learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**azbazb022@outlook.com**</h3>
 <p align="left">
 </p>
 
