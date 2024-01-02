@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I am always happy and enthusiastic about learning**
 
-<h3 align="left">Connect with me:**azbazb022@outlook.com**</h3>
 <p align="left">
 </p>
 
